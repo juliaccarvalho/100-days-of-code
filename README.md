@@ -15,3 +15,20 @@ Essas imagens receberão anexos no futuro conforme eu for estudando mais detalhe
 ![100doc (10)](https://user-images.githubusercontent.com/90210993/132252906-3cede128-7176-49bc-85ab-87c6e8dc47de.jpg)
 ![100doc (11)](https://user-images.githubusercontent.com/90210993/132252909-14bd2b26-ede6-40cd-bc95-c66a877e32b4.jpg)
 ![100doc (12)](https://user-images.githubusercontent.com/90210993/132252910-fbc74c1c-690d-4538-ab98-da360a33b6f9.jpg)
+
+Com base no raciocínio que o FreeCodeCamp oferece no percurso de consruir um site, resumi e traduzi os itens ensinados em cada task para fixar melhor e poder retornar quando houvesse algum dúvida posterior.
+<br>
+Comecei por aqui antes de estudar os arquivos da MDN, percebi que me faltava uma base mais sólida e portanto preferi estacionar o curso para construir uma base melhor antes de dar continuidade.
+<br>
+Pode-se perceber que a partir da página 10 as cores usadas passam a sincronizar com as cores usadas nos resumos da MDN
+<br>![100doc (1)](https://user-images.githubusercontent.com/90210993/132702810-0136d913-5fff-4a75-baaa-31115b9716ab.jpg)
+![100doc (2)](https://user-images.githubusercontent.com/90210993/132702818-cb9c2ab1-c263-45ce-840e-f788726cdb8d.jpg)
+![100doc (3)](https://user-images.githubusercontent.com/90210993/132702823-c2836f7f-53d0-4ba1-95e6-8bee52378aa9.jpg)
+![100doc (4)](https://user-images.githubusercontent.com/90210993/132702824-dca4379b-3769-4714-9ad0-2391d5950818.jpg)
+![100doc (5)](https://user-images.githubusercontent.com/90210993/132702828-f571100f-0088-40fb-826e-aefd9e421aaf.jpg)
+![100doc (6)](https://user-images.githubusercontent.com/90210993/132702833-f7cd5b4d-037a-4703-b50b-2d2e2c6e2872.jpg)
+![100doc (7)](https://user-images.githubusercontent.com/90210993/132702837-36198a1a-6724-4750-8555-f9dd1d4d4fda.jpg)
+![100doc (8)](https://user-images.githubusercontent.com/90210993/132702841-3e89f800-ee71-44ff-9b56-7c0953ea0656.jpg)
+![100doc (9)](https://user-images.githubusercontent.com/90210993/132702842-77cb5a3c-2177-49e0-9f90-fa1f1b4d4850.jpg)
+![100doc (10)](https://user-images.githubusercontent.com/90210993/132702844-ddd0bb34-afc1-4eb2-934d-60377d61627f.jpg)
+![100doc (11)](https://user-images.githubusercontent.com/90210993/132702848-f9ee784c-185d-4e30-8089-e3cc16bdecd8.jpg)
